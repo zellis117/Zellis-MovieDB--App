@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Zellis-MovieDB--App/static/css/main.db118d01.css",
+    "main.js": "/Zellis-MovieDB--App/static/js/main.e32ae645.js",
+    "static/js/787.6e30aac6.chunk.js": "/Zellis-MovieDB--App/static/js/787.6e30aac6.chunk.js",
+    "index.html": "/Zellis-MovieDB--App/index.html",
+    "static/media/search.svg": "/Zellis-MovieDB--App/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.db118d01.css.map": "/Zellis-MovieDB--App/static/css/main.db118d01.css.map",
+    "main.e32ae645.js.map": "/Zellis-MovieDB--App/static/js/main.e32ae645.js.map",
+    "787.6e30aac6.chunk.js.map": "/Zellis-MovieDB--App/static/js/787.6e30aac6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db118d01.css",
+    "static/js/main.e32ae645.js"
+  ]
+}
